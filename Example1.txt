@@ -1,1 +1,2 @@
-This is my first Git/Selenium class
+This is my first Git/Selenium class.
+
