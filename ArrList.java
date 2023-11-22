@@ -1,0 +1,22 @@
+package com.learn;
+
+import java.util.ArrayList;
+
+public class ArrList {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		  ArrayList<String> cars = new ArrayList<String>();
+		    cars.add("Volvo");
+		    cars.add("BMW");
+		    cars.add("Ford");
+		    cars.add("Mazda");
+		    for (int i = 0; i < cars.size(); i++) {
+		      System.out.println(cars.get(i));
+		    }
+		    
+		    System.out.println(cars);
+
+	}
+
+}
