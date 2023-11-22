@@ -1,2 +1,3 @@
 This is my first Git/Selenium class.
+this is a new line
 
